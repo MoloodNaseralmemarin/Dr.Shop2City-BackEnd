@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ShopNew\\Back-End\\DrShop2City\\DrShop2City.WebApi\\wwwroot\\images\\product-galleries\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-galleries\\1.jpg"
+    },
+    {
+      "Id": "D:\\ShopNew\\Back-End\\DrShop2City\\DrShop2City.WebApi\\wwwroot\\images\\product-galleries\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-galleries\\2.jpg"
+    },
+    {
+      "Id": "D:\\ShopNew\\Back-End\\DrShop2City\\DrShop2City.WebApi\\wwwroot\\images\\products\\origin\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\04.jpg"
+    },
+    {
+      "Id": "D:\\ShopNew\\Back-End\\DrShop2City\\DrShop2City.WebApi\\wwwroot\\images\\products\\origin\\09c07565bc5c46549d8833078c06169b.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\09c07565bc5c46549d8833078c06169b.jpeg"
+    },
+    {
+      "Id": "D:\\ShopNew\\Back-End\\DrShop2City\\DrShop2City.WebApi\\wwwroot\\images\\products\\origin\\18.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\18.jpg"
+    },
+    {
+      "Id": "D:\\ShopNew\\Back-End\\DrShop2City\\DrShop2City.WebApi\\wwwroot\\images\\products\\origin\\6ebfb4c4fda043648455044e9a15ac60.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\origin\\6ebfb4c4fda043648455044e9a15ac60.jpeg"
+    },
+    {
+      "Id": "D:\\ShopNew\\Back-End\\DrShop2City\\DrShop2City.WebApi\\wwwroot\\images\\sliders\\origin\\slide-1.jpg",
+      "PackagePath": "staticwebassets\\images\\sliders\\origin\\slide-1.jpg"
+    },
+    {
+      "Id": "D:\\ShopNew\\Back-End\\DrShop2City\\DrShop2City.WebApi\\wwwroot\\images\\sliders\\origin\\slide-2.jpg",
+      "PackagePath": "staticwebassets\\images\\sliders\\origin\\slide-2.jpg"
+    },
+    {
+      "Id": "D:\\ShopNew\\Back-End\\DrShop2City\\DrShop2City.WebApi\\wwwroot\\images\\sliders\\origin\\slide-3.jpg",
+      "PackagePath": "staticwebassets\\images\\sliders\\origin\\slide-3.jpg"
+    },
+    {
+      "Id": "D:\\ShopNew\\Back-End\\DrShop2City\\DrShop2City.WebApi\\wwwroot\\images\\sliders\\origin\\slide-4.jpg",
+      "PackagePath": "staticwebassets\\images\\sliders\\origin\\slide-4.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.DrShop2City.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.build.DrShop2City.WebApi.props",
+      "PackagePath": "build\\DrShop2City.WebApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.DrShop2City.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\DrShop2City.WebApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\win-x64\\staticwebassets\\msbuild.buildTransitive.DrShop2City.WebApi.props",
+      "PackagePath": "buildTransitive\\DrShop2City.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

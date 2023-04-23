@@ -1,0 +1,12 @@
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.Const\bin\Release\net7.0\DrShop2City.Const.deps.json
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.Const\bin\Release\net7.0\DrShop2City.Const.dll
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.Const\bin\Release\net7.0\DrShop2City.Const.pdb
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.Const\obj\Release\net7.0\DrShop2City.Const.csproj.AssemblyReference.cache
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.Const\obj\Release\net7.0\DrShop2City.Const.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.Const\obj\Release\net7.0\DrShop2City.Const.AssemblyInfoInputs.cache
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.Const\obj\Release\net7.0\DrShop2City.Const.AssemblyInfo.cs
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.Const\obj\Release\net7.0\DrShop2City.Const.csproj.CoreCompileInputs.cache
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.Const\obj\Release\net7.0\DrShop2City.Const.dll
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.Const\obj\Release\net7.0\refint\DrShop2City.Const.dll
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.Const\obj\Release\net7.0\DrShop2City.Const.pdb
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.Const\obj\Release\net7.0\ref\DrShop2City.Const.dll

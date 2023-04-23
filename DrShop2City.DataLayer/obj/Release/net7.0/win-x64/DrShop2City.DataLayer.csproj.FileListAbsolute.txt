@@ -1,0 +1,17 @@
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.DataLayer\bin\Release\net7.0\win-x64\DrShop2City.DataLayer.deps.json
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.DataLayer\bin\Release\net7.0\win-x64\DrShop2City.DataLayer.runtimeconfig.json
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.DataLayer\bin\Release\net7.0\win-x64\DrShop2City.DataLayer.dll
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.DataLayer\bin\Release\net7.0\win-x64\DrShop2City.DataLayer.pdb
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.DataLayer\bin\Release\net7.0\win-x64\DrShop2City.Const.dll
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.DataLayer\bin\Release\net7.0\win-x64\DrShop2City.Const.pdb
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.DataLayer\obj\Release\net7.0\win-x64\DrShop2City.DataLayer.csproj.AssemblyReference.cache
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.DataLayer\obj\Release\net7.0\win-x64\DrShop2City.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.DataLayer\obj\Release\net7.0\win-x64\DrShop2City.DataLayer.AssemblyInfoInputs.cache
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.DataLayer\obj\Release\net7.0\win-x64\DrShop2City.DataLayer.AssemblyInfo.cs
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.DataLayer\obj\Release\net7.0\win-x64\DrShop2City.DataLayer.csproj.CoreCompileInputs.cache
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.DataLayer\obj\Release\net7.0\win-x64\DrShop2City.DataLayer.csproj.CopyComplete
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.DataLayer\obj\Release\net7.0\win-x64\DrShop2City.DataLayer.dll
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.DataLayer\obj\Release\net7.0\win-x64\refint\DrShop2City.DataLayer.dll
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.DataLayer\obj\Release\net7.0\win-x64\DrShop2City.DataLayer.pdb
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.DataLayer\obj\Release\net7.0\win-x64\DrShop2City.DataLayer.genruntimeconfig.cache
+D:\ShopNew\Back-End\DrShop2City\DrShop2City.DataLayer\obj\Release\net7.0\win-x64\ref\DrShop2City.DataLayer.dll
